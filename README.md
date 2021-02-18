@@ -26,14 +26,13 @@ Notes | Sys | Data | Run | Files
 |Sys| Systems Needed Are Below
 [Systems Needed For Files]
 | Windows 10 - Windows 8 |
-==========================
 
 |Data| Our Data Runs Online.
 
 |Run Files| We Run Custom Link Files Online.
 
 |Files| File Made From [httrack(tm)]
-______
+
 ###### Created By Uland Sanders | Dev Employee | Creator | Joined Since 2019 
 
 
